@@ -9,7 +9,7 @@
 
 ## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
+Sinh viên năm 4 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
 
 ---
 
@@ -17,9 +17,9 @@ Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM
 
 **Trường Đại học Mở TP.HCM**  
 _Bachelor of Science in Computer Science_  
-📅 2021 – nay  
-- GPA: 3.5 / 4.0  
-- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Học máy cơ bản, Cơ sở dữ liệu
+📅 2022 – nay  
+- GPA: 3.2 / 4.0  
+- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Lập trình hướng đối tượng, Cơ sở dữ liệu
 
 ---
 
@@ -29,20 +29,20 @@ _Bachelor of Science in Computer Science_
 
 | Kỹ năng                  | Biểu tượng | Mức độ       |
 |--------------------------|------------|--------------|
-| Python                   | 🐍         | ⭐⭐⭐⭐☆        |
+| Python                   | 🐍         | ⭐⭐⭐⭐⭐        |
 | C++                      | 💻         | ⭐⭐⭐⭐☆        |
 | Java                     | ☕         | ⭐⭐⭐☆☆        |
 | HTML/CSS                 | 🌐         | ⭐⭐⭐⭐☆        |
 | JavaScript               | ⚙️         | ⭐⭐⭐☆☆        |
-| MySQL                    | 📊         | ⭐⭐⭐☆☆        |
+| MySQL                    | 📊         | ⭐⭐⭐⭐☆        |
 | Git & GitHub             | 🛠         | ⭐⭐⭐⭐☆        |
 | Machine Learning (Sklearn)| 🧠        | ⭐⭐⭐☆☆        |
 
 ### 🧪 Công cụ & Thư viện
 
+- 🌍 Flask, Django cho phát triển web backend đơn giản  
 - 🔬 Pandas, Matplotlib, Seaborn cho phân tích dữ liệu  
 - 🧠 Scikit-learn cho mô hình học máy cơ bản  
-- 🌍 Flask cho phát triển web backend đơn giản  
 - ✅ Pytest cho kiểm thử tự động
 
 ---
@@ -79,8 +79,7 @@ _Bachelor of Science in Computer Science_
 
 ## 📚 HOẠT ĐỘNG & CỘNG ĐỒNG
 
-- Thành viên CLB Lập trình – ĐH Mở TP.HCM (2022 – nay)  
-- Tình nguyện viên "Hour of Code" tại trường THPT chuyên Lê Hồng Phong  
+- Thành viên CLB Lập trình – ĐH Mở TP.HCM (2022 – nay)    
 - Viết blog chia sẻ kiến thức Python & Data Science (2024 – nay)
 
 ---
@@ -89,13 +88,13 @@ _Bachelor of Science in Computer Science_
 
 - ✅ Chứng chỉ “Python for Everybody” – Coursera (2023)  
 - 🥈 Top 10 Code Battle – Trường ĐH Mở TP.HCM (2024)  
-- 🗣 IELTS 6.5 – British Council (2024)
+- 🗣 SIC IOT – Samsung (2024)
 
 ---
 
 ## 🌍 NGÔN NGỮ & SỞ THÍCH
 
-- 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật tốt)  
+- 🔤 Tiếng Việt (native), Tiếng Anh (trung bình)  
 - 🧠 Sở thích: AI & Deep Learning, viết blog kỹ thuật, đọc sách công nghệ  
 
 ---
