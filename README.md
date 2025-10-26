@@ -19,7 +19,7 @@ Sinh viên năm 4 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM
 _Bachelor of Science in Computer Science_  
 📅 2022 – nay  
 - GPA: 3.2 / 4.0  
-- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Lập trình hướng đối tượng, Cơ sở dữ liệu
+- Môn học tiêu biểu: Lập trình hiện đại Django, Lập trình Python, Lập trình hướng đối tượng, Cơ sở dữ liệu
 
 ---
 
@@ -60,34 +60,16 @@ _Bachelor of Science in Computer Science_
 
 ## 💼 DỰ ÁN / KINH NGHIỆM
 
-### 📌 Student Management System – Cá nhân  
-**Công nghệ:** Python, Tkinter, SQLite  
-- Thiết kế phần mềm quản lý sinh viên: thêm, sửa, tìm kiếm dữ liệu  
-- Áp dụng OOP và CRUD trong mô hình MVC cơ bản  
-
-### 🌐 Tech Product Landing Page – Nhóm 3 người  
-**Công nghệ:** HTML, CSS, JavaScript  
-- Xây dựng giao diện landing page giới thiệu sản phẩm công nghệ  
-- Thiết kế responsive UI, form liên hệ, triển khai GitHub Pages  
-
-### 🔍 Smart OCR System (Demo)  
-**Công nghệ:** Python, OpenCV, Flask  
-- Nhận dạng văn bản từ ảnh in ấn  
-- Tiền xử lý ảnh + tích hợp OCR engine (Tesseract)
-
 ---
 
 ## 📚 HOẠT ĐỘNG & CỘNG ĐỒNG
 
 - Thành viên CLB Lập trình – ĐH Mở TP.HCM (2022 – nay)    
-- Viết blog chia sẻ kiến thức Python & Data Science (2024 – nay)
 
 ---
 
 ## 🏆 CHỨNG CHỈ & GIẢI THƯỞNG
 
-- ✅ Chứng chỉ “Python for Everybody” – Coursera (2023)  
-- 🥈 Top 10 Code Battle – Trường ĐH Mở TP.HCM (2024)  
 - 🗣 SIC IOT – Samsung (2024)
 
 ---
